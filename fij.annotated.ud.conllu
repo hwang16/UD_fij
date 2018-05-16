@@ -18,7 +18,7 @@
 2	cm	_	_	4	punct	_	_
 3	cnjadv	_	_	4	advmod	_	_
 4	vblex	_	iv	0	root	_	_
-5-May	_	_	_	_	_	_	_
+5-5	_	_	_	_	_	_	_
 5	art	_	_	6	det	_	_
 6	n	_	pos|p3|sg	4	nsubj	_	_
 7	prn	_	pers|p3|sg|subj	8	nsubj	_	_
@@ -27,7 +27,7 @@
 							
 							
 1	prn	_	pers|p3|sg|subj	3	nsubj	_	_
-3-Feb	_	_	_	_	_	_	_
+2-3	_	_	_	_	_	_	_
 2	pr	_	#2	3	compound	_	_
 3	vblex	_	iv|#3	0	root	_	_
 4	vblex	_	caus	3	conj	_	_
@@ -61,7 +61,7 @@
 							
 							
 1	prn	_	pers|p3|pl|subj2	3	nsubj	_	_
-3-Feb	_	_	_	_	_	_	_
+2-3	_	_	_	_	_	_	_
 2	pr	_	#2	3	compound	_	_
 3	vblex	_	iv|#3	0	root	_	_
 4	vblex	_	caus	3	conj	_	_
@@ -154,7 +154,7 @@
 3	cm	_	_	8	punct	_	_
 4	prn	_	pers|p3|du|subj2	8	nsubj	_	_
 5	adv	_	_	8	advmod	_	_
-8-Jun	_	_	_	_	_	_	_
+6-8	_	_	_	_	_	_	_
 6	n	_	_	8	compound	_	_
 7	prn	_	pers|p3|du|cl1_pos	8	compound	_	_
 8	vblex	_	iv	0	root	_	_
@@ -248,7 +248,7 @@
 3	adv	_	_	4	advmod	_	_
 4	vblex	_	iv	0	root	_	_
 5	art	_	_	6	det	_	_
-7-Jun	_	_	_	_	_	_	_
+6-7	_	_	_	_	_	_	_
 6	n	_	_	4	nsubj	_	_
 7	vblex	_	iv	6	compound	_	_
 8	cm	_	_	12	punct	_	_
@@ -274,7 +274,7 @@
 2	vblex	_	iv	0	root	_	_
 3	art	_	_	4	det	_	_
 4	prn	_	pers|p3|du|subj2	2	nsubj	_	_
-6-May	_	_	_	_	_	_	_
+5-6	_	_	_	_	_	_	_
 5	pr	_	_	6	compound	_	_
 6	vblex	_	iv|#6	2	conj	_	_
 7	vblex	_	iv	6	conj	_	_
@@ -318,7 +318,7 @@
 2	adv	_	_	1	advmod	_	_
 3	cm	_	_	7	punct	_	_
 4	adv	_	_	7	advmod	_	_
-7-May	_	_	_	_	_	_	_
+5-7	_	_	_	_	_	_	_
 5	n	_	_	7	compound	_	_
 6	prn	_	pers|p3|pl|cl2_pos	7	compound	_	_
 7	vblex	_	iv|#7	1	conj	_	_
@@ -345,7 +345,7 @@
 4	n	_	_	2	nmod	_	_
 5	cm	_	_	8	punct	_	_
 6	prn	_	pers|p3|du|subj2	8	nsubj	_	_
-8-Jul	_	_	_	_	_	_	_
+7-8	_	_	_	_	_	_	_
 7	pr	_	_	8	compound	_	_
 8	vblex	_	iv	0	root	_	_
 9	vblex	_	iv	8	conj	_	_
@@ -550,3 +550,1369 @@
 9	sent	_	_	2	punct	_	_
 
 
+1	prn	_	pers|p3|du|subj2	4	nsubj	_	_
+2	asp	_	_	4	aux	_	_
+3	adv	_	_	4	advmod	_	_
+4	vblex	_	iv	0	root	_	_
+5	adv	_	_	4	advmod	_	_
+6	pr	_	_	7	case	_	_
+7	n	_	_	4	obl	_	_
+8	pr	_	_	9	case	_	_
+9	np	_	top	7	nmod	_	_
+10	cm	_	_	13	punct	_	_
+11	prn	_	pers|p3|du|subj2	13	nsubj	_	_
+12-13	_	_	_	_	_	_	_
+12	n	_	_	13	compound	_	_
+13	vblex	_	caus	4	conj	_	_
+14	sent	_	_	13	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	vblex	_	iv	1	advmod	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|pl|card2	1	nsubj	_	_
+6	art	_	_	7	det	_	_
+7	n	_	_	5	appos	_	_
+8	pr	_	_	9	case	_	_
+9	n	_	_	7	nmod	_	_
+10	cm	_	_	12	punct	_	_
+11	prn	_	pers|p3|pl|subj2	12	nsubj	_	_
+12	vblex	_	tv	1	conj	_	_
+13	adv	_	_	12	advmod	_	_
+14	art	_	_	15	det	_	_
+15	n	_	_	12	obj	_	_
+16	rel	_	_	17	case	_	_
+17	n	_	_	15	nmod	_	_
+18	prn	_	pers|p3|sg|subj	19	nsubj	_	_
+19	vblex	_	iv	15	acl	_	_
+20	adv	_	_	19	advmod	_	_
+21	pr	_	_	22	case	_	_
+22	np	_	top	19	obl	_	_
+23	cm	_	_	25	punct	_	_
+24	rel	_	_	25	cc	_	_
+25	vblex	_	iv	19	conj	_	_
+26	adv	_	_	25	advmod	_	_
+27	asp	_	_	25	aux	_	_
+28	pr	_	_	29	case	_	_
+29	np	_	top	25	obl	_	_
+30	sent	_	_	12	punct	_	_
+							
+							
+1	vblex	_	tv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	adv	_	_	1	advmod	_	_
+4	prn	_	pers|p3|sg|subj	6	expl	_	_
+5-6	_	_	_	_	_	_	_
+5	art	_	_	6	compound	_	_
+6	num	_	_	1	csubj	_	_
+7	n	_	_	6	nsubj	_	_
+8	sent	_	_	1	punct	_	_
+
+
+1	sent	_	_	5	punct	_	_
+2	ij	_	_	5	discourse	_	_
+3	cm	_	_	2	punct	_	_
+4	prn	_	pers|p3|sg|subj	5	expl	_	_
+5	num	_	_	0	root	_	_
+6	n	_	_	5	nsubj	_	_
+7	adj	_	_	6	amod	_	_
+8	asp	_	_	9	aux	_	_
+9	vblex	_	iv	6	acl	_	_
+10	pr	_	_	11	case	_	_
+11	n	_	_	9	obl	_	_
+12	sent	_	_	5	punct	_	_
+13	sent	_	_	5	punct	_	_
+
+
+1	prn	_	pers|p3|sg|subj	2	expl	_	_
+2	vblex	_	tv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	art	_	_	5	det	_	_
+5	np	_	al	2	nsubj	_	_
+6	rel	_	_	7	case	_	_
+7	np	_	top	5	nmod	_	_
+8	prn	_	pers|p3|pl|subj2	9	nsubj	_	_
+9	vblex	_	iv	2	ccomp	_	_
+10	adv	_	_	9	advmod	_	_
+11	adv	_	_	9	advmod	_	_
+12	adv	_	_	9	advmod	_	_
+13	sent	_	_	2	punct	_	_
+
+
+1	sent	_	_	3	punct	_	_
+2	prn	_	pers|p1|inc|pl|subj2	3	nsubj	_	_
+3	vblex	_	iv	0	root	_	_
+4	adv	_	_	3	advmod	_	_
+5	sent	_	_	3	punct	_	_
+6	sent	_	_	3	punct	_	_
+
+
+1	prn	_	pers|p3|pl|subj2	2	nsubj	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	prn	_	pers|p3|pl|subj2	5	nsubj	_	_
+5	vblex	_	iv	2	conj	_	_
+6	adv	_	_	5	advmod	_	_
+7	adv	_	_	5	advmod	_	_
+8	pr	_	_	10	case	_	_
+9	art	_	_	10	det	_	_
+10	n	_	_	5	obl	_	_
+11	vblex	_	iv	10	acl	_	_
+12	adv	_	_	11	advmod	_	_
+13-14	_	_	_	_	_	_	_
+13	prn	_	pers|p3|sg|obj	11	obl	_	_
+14	pr	_	_	13	compound	_	_
+15	art	_	_	16	det	_	_
+16	n	_	_	11	nsubj	_	_
+17	sent	_	_	5	punct	_	_
+							
+							
+1	prn	_	pers|p3|pl|subj2	2	nsubj	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	sent	_	_	6	punct	_	_
+5	prn	_	pers|p3|du|subj2	6	expl	_	_
+6	vblex	_	iv	2	conj	_	_
+7	adv	_	_	6	advmod	_	_
+8-9	_	_	_	_	_	_	_
+8	prn	_	pers|p3|sg|obj	6	obl	_	_
+9	pr	_	_	8	compound	_	_
+10	art	_	_	11	det	_	_
+11	prn	_	pers|p3|du|card2	6	nsubj	_	_
+12	art	_	_	13	det	_	_
+13	n	_	_	11	appos	_	_
+14	cm	_	_	16	punct	_	_
+15	art	_	_	16	det	_	_
+16	np	_	al	13	appos	_	_
+17	pr	_	_	20	cc	_	_
+18	art	_	_	20	det	_	_
+19	prn	_	pers|p3|sg|cl1_pos	20	nmod	_	_
+20	np	_	al	16	conj	_	_
+21	sent	_	_	6	punct	_	_
+							
+							
+1	vblex	_	iv	5	advcl	_	_
+2	adv	_	_	1	advmod	_	_
+3	adv	_	_	1	advmod	_	_
+4	asp	_	_	5	aux	_	_
+5	vblex	_	pass	0	root	_	_
+6	adv	_	_	5	advmod	_	_
+7	art	_	_	8	det	_	_
+8	n	_	_	5	nsubj	_	_
+9	cm	_	_	13	punct	_	_
+10	n	_	_	13	nsubj	_	_
+11	adj	_	_	10	amod	_	_
+12	asp	_	_	13	aux	_	_
+13	vblex	_	pass	5	conj	_	_
+14	cm	_	_	17	punct	_	_
+15	prn	_	pers|p3|sg|cl2_pos	17	nsubj	_	_
+16	vblex	_	iv	15	acl	_	_
+17	vblex	_	iv	13	conj	_	_
+18	adv	_	_	17	advmod	_	_
+19	pr	_	_	20	case	_	_
+20	n	_	_	17	obl	_	_
+21	cm	_	_	23	punct	_	_
+22	asp	_	_	23	aux	_	_
+23	vblex	_	iv	17	punct	_	_
+24	sent	_	_	23	punct	_	_
+							
+							
+1	prn	_	pers|p3|sg|cl1_pos	2	nsubj	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	adv	_	_	2	advmod	_	_
+5	cm	_	_	8	punct	_	_
+6	prn	_	pers|p3|pl|subj1	8	nsubj	_	_
+7	asp	_	_	8	aux	_	_
+8	vblex	_	iv	2	conj	_	_
+9	sent	_	_	8	punct	_	_
+							
+							
+1	rel	_	_	10	discourse	_	_
+2	cm	_	_	1	punct	_	_
+3	art	_	_	4	det	_	_
+4	np	_	al	10	nsubj	_	_
+5	pr	_	_	6	cc	_	_
+6	np	_	al	4	conj	_	_
+7	prn	_	pers|p3|du|subj2	10	expl	_	_
+8	asp	_	_	10	aux	_	_
+9	adv	_	_	10	advmod	_	_
+10	vblex	_	iv	0	root	_	_
+11	adv	_	_	10	advmod	_	_
+12	adv	_	_	10	advmod	_	_
+13	adv	_	_	10	advmod	_	_
+14	sent	_	_	10	punct	_	_
+							
+							
+1	art	_	_	2	det	_	_
+2	prn	_	pers|p3|pl|card2	4	nsubj	_	_
+3	asp	_	_	4	advmod	_	_
+4	vblex	_	iv	0	root	_	_
+5	adv	_	_	4	advmod	_	_
+6	cm	_	_	11	punct	_	_
+7	art	_	_	8	det	_	_
+8	prn	_	pers|p3|du|subj2	11	expl	_	_
+9	asp	_	_	11	aux	_	_
+10	cnjcoo	_	_	11	advmod	_	_
+11	vblex	_	iv|coll	4	conj	_	_
+12	adv	_	_	11	advmod	_	_
+13	art	_	_	14	det	_	_
+14	prn	_	pers|p3|du|card2	11	nsubj	_	_
+15	sent	_	_	11	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	asp	_	_	1	aux	_	_
+4	guio	_	_	8	punct	_	_
+5	art	_	_	6	det	_	_
+6	np	_	al	8	nsubj	_	_
+7	asp	_	_	8	aux	_	_
+8	vblex	_	tvprn	1	conj	_	_
+9	np	_	al	8	obj	_	_
+10	guio	_	_	8	punct	_	_
+11	np	_	al	14	nsubj	_	_
+12	rel	_	_	14	cop	_	_
+13	asp	_	_	14	aux	_	_
+14	n	_	pos|p3|sg	8	xcomp	_	_
+15	sent	_	_	8	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	art	_	_	6	det	_	_
+5	prn	_	pers|p3|du|cl1_pos	6	nmod	_	_
+6	n	_	_	2	nsubj	_	_
+7	sent	_	_	2	punct	_	_
+							
+							
+1	rel	_	_	4	discourse	_	_
+2	cm	_	_	1	punct	_	_
+3	prn	_	pers|p3|pl|cl1_pos	4	nsubj	_	_
+4	vblex	_	iv	0	root	_	_
+5	adv	_	iv	4	advmod	_	_
+6	adv	_	_	4	advmod	_	_
+7	cm	_	_	9	punct	_	_
+8	asp	_	_	9	aux	_	_
+9	vblex	_	tv	4	conj	_	_
+10	art	_	_	11	det	_	_
+11	prn	_	pers|p3|du|card2	9	nsubj	_	_
+12	rel	_	_	15	mark	_	_
+13	prn	_	pers|p3|du|subj2	15	nsubj	_	_
+14	asp	_	_	15	aux	_	_
+15	vblex	_	iv	9	ccomp	_	_
+16	adv	_	_	15	advmod	_	_
+17	adv	_	_	15	advmod	_	_
+18	sent	_	_	9	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	pr	_	_	5	case	_	_
+5	prn	_	pers|p3|du|subj2	2	obl	_	_
+6	art	_	_	8	det	_	_
+7	prn	_	pers|p3|du|cl2_pos	8	nmod	_	_
+8	n	_	_	2	nsubj	_	_
+9	cm	_	_	10	punct	_	_
+10	n	_	_	8	appos	_	_
+11	asp	_	_	13	aux	_	_
+12	adv	_	_	13	advmod	_	_
+13	vblex	_	pass	10	acl	_	_
+14	prn	_	dem	13	nsubj	_	_
+15	sent	_	_	2	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	tv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|du|card2	2	nsubj	_	_
+6	sent	_	_	9	punct	_	_
+7	art	_	_	8	det	_	_
+8	prn	_	pers|p3|pl|subj2	9	expl	_	_
+9	vblex	_	iv	2	conj	_	_
+10	adv	_	_	9	advmod	_	_
+11	adv	_	_	9	advmod	_	_
+12	pr	_	_	14	case	_	_
+13	art	_	_	14	det	_	_
+14	n	_	_	9	obl	_	_
+15	art	_	_	16	det	_	_
+16	prn	_	pers|p3|pl|card2	9	nsubj	_	_
+17	art	_	_	18	det	_	_
+18	n	_	_	16	appos	_	_
+19	cm	_	_	21	punct	_	_
+20	prn	_	pers|p3|sg|subj	21	expl	_	_
+21	vaux	_	_	9	conj	_	_
+22	rel	_	_	24	mark	_	_
+23-24	_	_	_	_	_	_	_
+23	art	_	_	24	compound	_	_
+24	num	_	_	21	csubj	_	_
+25	n	_	_	24	nsubj	_	_
+26	prn	_	pers|p3|pl|subj1	27	nsubj	_	_
+27	vblex	_	tv	25	acl	_	_
+28	sent	_	_	21	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	tv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	art	_	_	5	det	_	_
+5	np	_	al	2	nsubj	_	_
+6	pr	_	_	7	case	_	_
+7	np	_	al	2	obl	_	_
+8	rel	_	_	9	mark	_	_
+9	vaux	_	_	2	ccomp	_	_
+10	rel	_	_	11	mark	_	_
+11	vblex	_	caus|pass	9	csubj	_	_
+12	pr	_	_	13	det	_	_
+13	prn	_	dem	11	obl	_	_
+14	cm	_	_	17	punct	_	_
+15	art	_	_	17	det	_	_
+16	prn	_	pers|p3|du|cl1_pos	17	nmod	_	_
+17	adj	_	_	13	appos	_	_
+18	ij	_	_	2	discourse	_	_
+19	sent	_	_	2	punct	_	_
+
+
+1	sent	_	_	4	punct	_	_
+2	prn	_	pers|p1|sg|subj2	4	nsubj	_	_
+3	asp	_	_	4	aux	_	_
+4	vblex	_	tv	0	root	_	_
+5	adv	_	_	4	advmod	_	_
+6	cm	_	_	9	punct	_	_
+7	prn	_	pers|p1|sg|subj2	9	nsubj	_	_
+8	fut	_	_	9	aux	_	_
+9	vblex	_	iv	4	conj	_	_
+10	prn	_	dem	9	advmod	_	_
+11	cm	_	_	15	punct	_	_
+12	prn	_	pers|p1|sg|subj2	15	nsubj	_	_
+13	asp	_	_	15	aux	_	_
+14-15	_	_	_	_	_	_	_
+14	pr	_	_	15	compound	_	_
+15	vblex	_	iv	9	conj	_	_
+16	vblex	_	tv	15	conj	_	_
+17	pr	_	_	18	case	_	_
+18	np	_	al	16	obl	_	_
+19	cm	_	_	23	punct	_	_
+20	prn	_	pers|p1|exc|pl|subj	23	nsubj	_	_
+21	asp	_	_	23	aux	_	_
+22	fut	_	_	23	aux	_	_
+23	vblex	_	iv	16	ccomp	_	_
+24	adv	_	_	23	advmod	_	_
+25	rel	_	_	26	case	_	_
+26	n	_	_	23	obl	_	_
+27	vblex	_	iv	23	conj	_	_
+28	adv	_	_	27	advmod	_	_
+29	sent	_	_	16	punct	_	_
+30	sent	_	_	4	punct	_	_
+
+
+1	vblex	_	iv	0	root	_	_
+2	art	_	_	3	det	_	_
+3	prn	_	pers|p3|pl|card1	1	expl	_	_
+4	art	_	_	5	det	_	_
+5	n	_	_	1	nsubj	_	_
+6	sent	_	_	7	punct	_	_
+7	vblex	_	iv	1	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9	art	_	_	10	det	_	_
+10	prn	_	pers|p3|du|card2	7	nsubj	_	_
+11	sent	_	_	7	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|du|card2	1	nsubj	_	_
+5	cm	_	_	6	punct	_	_
+6	vblex	_	iv	1	conj	_	_
+7	adv	_	_	6	advmod	_	_
+8	adv	_	_	6	advmod	_	_
+9	pr	_	_	10	case	_	_
+10	np	_	top	6	obl	_	_
+11	pr	_	_	12	case	_	_
+12	n	_	_	10	nmod	_	_
+13	rel	_	_	14	case	_	_
+14	n	_	_	12	nmod	_	_
+15	cm	_	_	18	punct	_	_
+16-18	_	_	_	_	_	_	_
+16	n	_	_	18	compound	_	_
+17	prn	_	pers|p3|pl|cl2_pos	18	compound	_	_
+18	vblex	_	iv	6	conj	_	_
+19	cm	_	_	21	punct	_	_
+20	prn	_	pers|p3|pl|subj2	21	nsubj	_	_
+21	vblex	_	iv	18	conj	_	_
+22	sent	_	_	21	punct	_	_
+							
+							
+1	prn	_	pers|p3|pl|cl1_pos	2	nsubj	_	_
+2	vblex	_	iv	0	root	_	_
+3	prn	_	dem	2	advmod	_	_
+4	cm	_	_	6	punct	_	_
+5	prn	_	pers|p3|du|subj2	6	nsubj	_	_
+6	vblex	_	iv	2	conj	_	_
+7	cm	_	_	14	punct	_	_
+8	n	_	_	14	obl	_	_
+9	adv	_	_	8	amod	_	_
+10	asp	_	_	14	aux	_	_
+11	vaux	_	_	14	aux	_	_
+12	past	_	_	14	aux	_	_
+13-14	_	_	_	_	_	_	_
+13	pr	_	_	14	compound	_	_
+14	vblex	_	iv	6	conj	_	_
+15	vblex	_	iv	14	xcomp	_	_
+16	sent	_	_	14	punct	_	_
+							
+							
+1	vaux	_	_	4	aux	_	_
+2	past	_	_	4	aux	_	_
+3-4	_	_	_	_	_	_	_
+3	pr	_	_	4	compound	_	_
+4	vblex	_	iv	0	root	_	_
+5	vblex	_	iv	4	xcomp	_	_
+6	cm	_	_	10	punct	_	_
+7	prn	_	pers|p3|du|subj2	10	expl	_	_
+8	asp	_	_	10	aux	_	_
+9	adv	_	_	10	advmod	_	_
+10	vblex	_	iv	4	conj	_	_
+11	adv	_	_	10	advmod	_	_
+12	adv	_	_	10	advmod	_	_
+13	adv	_	_	10	advmod	_	_
+14	art	_	_	15	det	_	_
+15	np	_	al	10	nsubj	_	_
+16	cm	_	_	17	punct	_	_
+17	vaux	_	_	10	conj	_	_
+18	adv	_	_	17	advmod	_	_
+19	rel	_	_	20	mark	_	_
+20	vblex	_	iv	17	csubj	_	_
+21	pr	_	_	23	case	_	_
+22	art	_	_	23	det	_	_
+23	n	_	_	20	obl	_	_
+24	sent	_	_	17	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	prn	_	dem	1	expl	_	_
+3	art	_	_	4	det	_	_
+4	n	_	_	1	nsubj	_	_
+5	det	_	dem	4	det	_	_
+6	cm	_	_	7	punct	_	_
+7	vblex	_	iv	1	conj	_	_
+8	prn	_	dem	7	expl	_	_
+9	art	_	_	10	det	_	_
+10	n	_	_	7	nsubj	_	_
+11	det	_	dem	10	det	_	_
+12	cm	_	_	14	punct	_	_
+13	adv	_	_	14	advmod	_	_
+14	vblex	_	iv	7	conj	_	_
+15	adv	_	_	14	advmod	_	_
+16	prn	_	pers|p3|sg|subj	17	expl	_	_
+17	num	_	_	14	csubj	_	_
+18	art	_	_	19	det	_	_
+19	n	_	_	17	nsubj	_	_
+20	cm	_	_	22	punct	_	_
+21	asp	_	_	22	aux	_	_
+22	vaux	_	_	14	conj	_	_
+23	adv	_	_	22	advmod	_	_
+24	adv	_	_	22	advmod	_	_
+25	sent	_	_	22	punct	_	_
+							
+							
+1	prn	_	pers|p3|pl|subj1	3	expl	_	_
+2	asp	_	_	3	aux	_	_
+3	vblex	_	coll|pass	0	root	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|pl|card1	3	nsubj	_	_
+6	pr	_	_	7	case	_	_
+7	np	_	top	3	obl	_	_
+8	sent	_	_	3	punct	_	_
+							
+							
+1	art	_	_	2	det	_	_
+2	prn	_	pers|p2|sg|card1	3	nsubj	_	_
+3	vblex	_	tvprn	0	root	_	_
+4	np	_	top	3	obj	_	_
+5	sent	_	_	3	punct	_	_
+							
+							
+1	np	_	top	9	obl	_	_
+2	pr	_	_	3	case	_	_
+3	np	_	top	1	nmod	_	_
+4	pr	_	_	5	case	_	_
+5	n	_	pos|p3|sg	3	nmod	_	_
+6	pr	_	_	7	case	_	_
+7	n	_	_	5	nmod	_	_
+8	prn	_	pers|p3|sg|subj	9	expl	_	_
+9	vblex	_	iv	0	root	_	_
+10-11	_	_	_	_	_	_	_
+10	prn	_	pers|p3|sg|obj	9	obl	_	_
+11	pr	_	_	10	compound	_	_
+12	art	_	_	13	det	_	_
+13	n	_	_	9	nsubj	_	_
+14	sent	_	_	9	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	coll|pass	0	root	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|pl|card1	2	nsubj	_	_
+5	pr	_	_	6	case	_	_
+6	np	_	top	2	obl	_	_
+7	rel	_	_	9	mark	_	_
+8	asp	_	_	9	aux	_	_
+9	vblex	_	tvprn	2	ccomp	_	_
+10	art	_	_	11	det	_	_
+11	np	_	al	9	nsubj	_	_
+12	rel	_	_	13	mark	_	_
+13	n	_	pos	2	ccomp	_	_
+14	np	_	al	13	nmod	_	_
+15	sent	_	_	2	punct	_	_
+							
+							
+1	prn	_	pers|p3|pl|subj1	4	nsubj	_	_
+2	asp	_	_	4	aux	_	_
+3	adv	_	_	4	advmod	_	_
+4	vblex	_	iv	0	root	_	_
+5	adv	_	_	4	advmod	_	_
+6	cm	_	_	7	punct	_	_
+7	vblex	_	coll|pass	4	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9	cm	_	_	13	punct	_	_
+10	prn	_	pers|p3|pl|subj2	13	nsubj	_	_
+11	asp	_	_	13	aux	_	_
+12-13	_	_	_	_	_	_	_
+12	pr	_	_	13	compound	_	_
+13	vblex	_	iv	7	conj	_	_
+14	art	_	_	15	det	_	_
+15	n	_	_	13	obl	_	_
+16	cm	_	_	19	punct	_	_
+17	rel	_	_	19	mark	_	_
+18	prn	_	pers|p3|pl|subj2	19	nsubj	_	_
+19	vblex	_	tvprn	13	xcomp	_	_
+20	np	_	al	19	obj	_	_
+21	sent	_	_	24	punct	_	_
+22	asp	_	_	24	aux	_	_
+23	cnjcoo	_	_	24	discourse	_	_
+24	vblex	_	caus|pass	13	punct	_	_
+25	sent	_	_	24	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vaux	_	_	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	art	_	_	5	det	_	_
+5	n	_	_	2	nsubj	_	_
+6	pr	_	_	7	det	_	_
+7	prn	_	dem	2	obl	_	_
+8	cm	_	_	10	punct	_	_
+9	asp	_	_	10	aux	_	_
+10	vaux	_	_	2	conj	_	_
+11	rel	_	_	12	mark	_	_
+12	adj	_	_	10	csubj	_	_
+13	adv	_	_	10	advmod	_	_
+14	sent	_	_	10	punct	_	_
+							
+							
+1	vblex	_	caus|pass|#1	0	root	_	_
+2	asp	_	#2	1	aux	_	_
+3	vblex	_	pass|#3	1	conj	_	_
+4	adv	_	_	3	advmod	_	_
+5	art	_	_	6	det	_	_
+6	n	_	_	3	nsubj	_	_
+7	rel	_	_	8	case	_	_
+8	n	_	_	6	nmod	_	_
+9	sent	_	_	3	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	pass	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	adv	_	_	2	advmod	_	_
+5	sent	_	_	2	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	prn	_	dem	1	nsubj	_	_
+3	cm	_	_	6	punct	_	_
+4	prn	_	pers|p3|pl|subj2	6	nsubj	_	_
+5	asp	_	_	6	aux	_	_
+6	vblex	_	iv	1	conj	_	_
+7	pr	_	_	8	case	_	_
+8-9	_	_	_	_	_	_	_
+8	n	_	_	6	obl	_	_
+9	vblex	_	iv	8	compound	_	_
+10	cm	_	_	12	punct	_	_
+11	pr	_	_	12	case	_	_
+12	np	_	top	6	obl	_	_
+13	sent	_	_	15	punct	_	_
+14	cnjadv	_	_	15	advmod	_	_
+15	vblex	_	iv	6	conj	_	_
+16	adv	_	_	15	advmod	_	_
+17	art	_	_	18	det	_	_
+18	n	_	_	15	obj	_	_
+19	det	_	dem	18	det	_	_
+20	sent	_	_	15	punct	_	_
+							
+							
+1	rel	_	_	4	discourse	_	_
+2	cm	_	_	1	punct	_	_
+3	asp	_	_	4	aux	_	_
+4	vblex	_	iv	0	root	_	_
+5	adv	_	_	4	advmod	_	_
+6	adv	_	_	4	advmod	_	_
+7	pr	_	_	8	case	_	_
+8	prn	_	dem	4	obl	_	_
+9	art	_	_	11	det	_	_
+10	prn	_	pers|p3|sg|cl2_pos	11	nmod	_	_
+11	n	_	_	4	nsubj	_	_
+12	asp	_	_	13	aux	_	_
+13	vblex	_	tv	4	conj	_	_
+14	art	_	_	15	det	_	_
+15	np	_	al	13	nsubj	_	_
+16	sent	_	_	13	punct	_	_
+							
+							
+1	rel	_	_	5	discourse	_	_
+2	cm	_	_	1	punct	_	_
+3	n	_	_	5	nsubj	_	_
+4	art	_	_	5	det	_	_
+5	n	_	_	0	root	_	_
+6	adv	_	_	5	amod	_	_
+7	adv	_	_	5	amod	_	_
+8	rel	_	_	9	case	_	_
+9	n	_	_	5	nmod	_	_
+10	det	_	dem	9	det	_	_
+11	cm	_	_	13	punct	_	_
+12	prn	_	pers|p3|sg|subj	13	expl	_	_
+13	n	_	_	5	conj	_	_
+14	art	_	_	15	det	_	_
+15	n	_	_	13	nsubj	_	_
+16	prn	_	pers|p3|sg|subj	18	nsubj	_	_
+17	asp	_	_	18	aux	_	_
+18	vblex	_	iv	13	conj	_	_
+19	adv	_	_	18	advmod	_	_
+20	cm	_	_	22	punct	_	_
+21	prn	_	pers|p3|sg|subj	22	expl	_	_
+22	vblex	_	caus	18	conj	_	_
+23	adv	_	_	22	advmod	_	_
+24	prn	_	dem	22	nsubj	_	_
+25	prn	_	pers|p3|sg|subj	27	nsubj	_	_
+26	asp	_	_	27	aux	_	_
+27	vblex	_	iv	22	conj	_	_
+28	adv	_	_	27	advmod	_	_
+29	sent	_	_	27	punct	_	_
+							
+							
+1	rel	_	_	8	discourse	_	_
+2	cm	_	_	1	punct	_	_
+3	art	_	_	4	det	_	_
+4	n	_	_	8	obl	_	_
+5	det	_	dem	4	det	_	_
+6	cm	_	_	8	punct	_	_
+7	prn	_	pers|p3|sg|subj	8	expl	_	_
+8	adj	_	_	0	root	_	_
+9	art	_	_	10	det	_	_
+10	n	_	_	8	nsubj	_	_
+11	det	_	dem	10	det	_	_
+12	sent	_	_	15	punct	_	_
+13	n	_	pos|p3|sg	15	nsubj	_	_
+14	prn	_	pers|p3|sg|subj	13	nmod	_	_
+15	adj	_	_	8	conj	_	_
+16	ij	_	_	15	discourse	_	_
+17	sent	_	_	15	punct	_	_
+18	vblex	_	tv	15	conj	_	_
+19	adv	_	_	18	advmod	_	_
+20	rel	_	_	21	case	_	_
+21	n	_	_	18	obl	_	_
+22	num	_	_	18	nsubj	_	_
+23	ij	_	_	18	discourse	_	_
+24	sent	_	_	18	punct	_	_
+25	art	_	_	26	det	_	_
+26	prn	_	pers|p3|sg|cl2_pos	27	nsubj	_	_
+27	adj	_	_	18	conj	_	_
+28	sent	_	_	27	punct	_	_
+							
+							
+1	rel	_	_	5	discourse	_	_
+2	cm	_	_	5	punct	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|sg|card	5	nsubj	_	_
+5	adj	_	_	0	root	_	_
+6	prn	_	pers|p3|sg|subj	7	nsubj	_	_
+7	vblex	_	pass	5	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9	rel	_	_	10	mark	_	_
+10	adj	_	_	7	advcl	_	_
+11	art	_	_	12	det	_	_
+12	n	_	pos|p3|sg	10	nsubj	_	_
+13	sent	_	_	7	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	adv	_	_	1	advmod	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|sg|card	1	nsubj	_	_
+6	cm	_	_	7	punct	_	_
+7	vblex	_	iv	1	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9	pr	_	_	10	case	_	_
+10	np	_	top	7	obl	_	_
+11	cm	_	_	13	punct	_	_
+12	asp	_	_	13	aux	_	_
+13	adj	_	_	7	conj	_	_
+14	art	_	_	15	det	_	_
+15	n	_	_	13	nsubj	_	_
+16	sent	_	_	13	punct	_	_
+							
+							
+1	vblex	_	tv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|sg|card	1	nsubj	_	_
+5	rel	_	_	6	mark	_	_
+6	num	_	_	1	ccomp	_	_
+7	guio	_	_	10	punct	_	_
+8	guio	_	_	10	punct	_	_
+9	art	_	_	10	det	_	_
+10	n	_	_	6	nsubj	_	_
+11	cm	_	_	13	punct	_	_
+12	prn	_	pers|p3|du|subj2	13	nsubj	_	_
+13	vblex	_	coll|pass	1	conj	_	_
+14	adv	_	_	13	advmod	_	_
+15	prn	_	pers|p3|du|subj2	16	nsubj	_	_
+16	vblex	_	iv	13	conj	_	_
+17	adv	_	_	16	advmod	_	_
+18	pr	_	_	19	case	_	_
+19	np	_	top	16	obl	_	_
+20	sent	_	_	16	punct	_	_
+							
+							
+1	vblex	_	iv	3	advmod	_	_
+2	adv	_	_	3	advmod	_	_
+3	vblex	_	iv	0	root	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|du|card2	3	expl	_	_
+6	art	_	_	7	det	_	_
+7	n	_	_	3	nsubj	_	_
+8	det	_	dem	7	det	_	_
+9	sent	_	_	3	punct	_	_
+
+
+1	sent	_	_	5	punct	_	_
+2	ij	_	_	5	discourse	_	_
+3	sent	_	_	2	punct	_	_
+4	asp	_	_	5	aux	_	_
+5	adj	_	_	0	root	_	_
+6	adv	_	_	5	advmod	_	_
+7	art	_	_	8	det	_	_
+8	n	_	_	5	nsubj	_	_
+9	det	_	dem	8	det	_	_
+10	sent	_	_	5	punct	_	_
+11	sent	_	_	5	punct	_	_
+
+
+1	sent	_	_	3	punct	_	_
+2	prn	_	pers|p1|sg|subj2	3	nsubj	_	_
+3	vblex	_	caus	0	root	_	_
+4	rel	_	_	7	mark	_	_
+5	prn	_	pers|p3|pl|subj2	7	nsubj	_	_
+6	asp	_	_	7	aux	_	_
+7	vblex	_	iv	3	ccomp	_	_
+8	adv	_	_	7	advmod	_	_
+9	pr	_	_	10	case	_	_
+10	n	_	_	7	obl	_	_
+11	sent	_	_	3	punct	_	_
+12	sent	_	_	3	punct	_	_
+
+
+1	sent	_	_	4	punct	_	_
+2	prn	_	pers|p1|inc|du|subj2	4	nsubj	_	_
+3	asp	_	_	4	aux	_	_
+4	vblex	_	iv	0	root	_	_
+5	adv	_	_	4	advmod	_	_
+6	adv	_	_	4	advmod	_	_
+7	pr	_	_	8	case	_	_
+8	n	_	_	4	obl	_	_
+9	sent	_	_	4	punct	_	_
+10	sent	_	_	4	punct	_	_
+
+
+1	prn	_	pers|p3|du|subj2	2	expl	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|du|card2	2	nsubj	_	_
+6	cm	_	_	7	punct	_	_
+7	vblex	_	iv	2	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9	art	_	_	10	det	_	_
+10	np	_	al	7	nsubj	_	_
+11	sent	_	_	7	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|du|card2	1	nsubj	_	_
+5	asp	_	_	6	aux	_	_
+6	vblex	_	iv	1	conj	_	_
+7	adv	_	_	6	advmod	_	_
+8	art	_	_	9	det	_	_
+9	n	_	_	6	nsubj	_	_
+10	pr	_	_	11	case	_	_
+11	np	_	top	6	obl	_	_
+12	sent	_	_	6	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|sg|card	1	expl	_	_
+5	vblex	_	iv	1	conj	_	_
+6	adv	_	_	5	advmod	_	_
+7	pr	_	_	8	case	_	_
+8	n	_	_	5	obl	_	_
+9	rel	_	_	10	case	_	_
+10	n	_	_	8	nmod	_	_
+11	vblex	_	tv	15	advcl	_	_
+12	art	_	_	14	det	_	_
+13	prn	_	pers|p3|du|cl1_pos	14	nmod	_	_
+14	n	_	_	11	obj	_	_
+15	vblex	_	iv	5	conj	_	_
+16-17	_	_	_	_	_	_	_
+16	prn	_	pers|p3|sg|obj	15	obl	_	_
+17	pr	_	_	16	compound	_	_
+18	prn	_	pers|p3|sg|subj	20	expl	_	_
+19-20	_	_	_	_	_	_	_
+19	art	_	_	20	compound	_	_
+20	num	_	_	15	csubj	_	_
+21	n	_	_	20	nsubj	_	_
+22	rel	_	_	23	case	_	_
+23	n	_	_	21	nmod	_	_
+24	cm	_	_	15	punct	_	_
+25	art	_	_	26	det	_	_
+26	np	_	al	1	nsubj	_	_
+27	sent	_	_	1	punct	_	_
+							
+							
+1	adv	_	_	2	advmod	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	adv	_	_	2	advmod	_	_
+5	pr	_	_	7	case	_	_
+6	art	_	_	7	det	_	_
+7	n	_	_	2	obl	_	_
+8	rel	_	_	9	case	_	_
+9	n	_	_	7	nmod	_	_
+10	det	_	dem	9	det	_	_
+11	sent	_	_	2	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	art	_	_	4	det	_	_
+4	n	_	_	1	nsubj	_	_
+5	cm	_	_	7	punct	_	_
+6	prn	_	pers|p3|pl|subj2	7	nsubj	_	_
+7	vblex	_	iv	1	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9-10	_	_	_	_	_	_	_
+9	prn	_	pers|p3|sg|obj	7	obl	_	_
+10	pr	_	_	9	compound	_	_
+11	sent	_	_	7	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vbmod	_	_	0	root	_	_
+3	vblex	_	iv	2	xcomp	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|du|card2	2	expl	_	_
+6	art	_	_	7	det	_	_
+7	n	_	_	2	nsubj	_	_
+8	cm	_	_	11	punct	_	_
+9	prn	_	pers|p3|du|subj2	11	nsubj	_	_
+10	asp	_	_	11	aux	_	_
+11	vblex	_	iv	2	conj	_	_
+12	prn	_	pers|p3|du|subj2	14	nsubj	_	_
+13-14	_	_	_	_	_	_	_
+13	pr	_	_	14	compound	_	_
+14	vblex	_	iv	11	conj	_	_
+15	vblex	_	iv	14	xcomp	_	_
+16	sent	_	_	14	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	tv	0	root	_	_
+3-4	_	_	_	_	_	_	_
+3	prn	_	pers|p3|sg|obj	2	obl	_	_
+4	pr	_	_	3	compound	_	_
+5	art	_	_	6	det	_	_
+6	np	_	al	2	nsubj	_	_
+7	rel	_	_	10	mark	_	_
+8	prn	_	pers|p3|du|subj2	10	nsubj	_	_
+9	asp	_	_	10	aux	_	_
+10	vblex	_	iv	2	ccomp	_	_
+11	cm	_	_	13	punct	_	_
+12	cnjadv	_	_	13	advmod	_	_
+13	vblex	_	iv	2	conj	_	_
+14	pr	_	_	15	case	_	_
+15	n	_	_	13	obl	_	_
+16	cm	_	_	17	punct	_	_
+17	vblex	_	iv	13	conj	_	_
+18	pr	_	_	19	case	_	_
+19	n	_	_	17	obl	_	_
+20	pr	_	_	23	case	_	_
+21	art	_	_	23	det	_	_
+22	prn	_	pers|p3|du|cl1_pos	23	nmod	_	_
+23	n	_	_	19	nmod	_	_
+24	cm	_	_	26	punct	_	_
+25	adv	_	_	26	advmod	_	_
+26	vblex	_	tv	17	conj	_	_
+27	art	_	_	28	det	_	_
+28	n	_	pos	26	obj	_	_
+29	n	_	_	28	nmod	_	_
+30	rel	_	_	31	cc	_	_
+31	vblex	_	tv	26	conj	_	_
+32	adv	_	_	31	advmod	_	_
+33	art	_	_	34	det	_	_
+34	n	_	pos|p3|sg	31	obj	_	_
+35	sent	_	_	31	punct	_	_
+							
+							
+1	vblex	_	tv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	adv	_	_	1	advmod	_	_
+4	cm	_	_	6	punct	_	_
+5	cnjadv	_	_	6	advmod	_	_
+6	vblex	_	tv	1	conj	_	_
+7	adv	_	_	6	advmod	_	_
+8	adv	_	_	6	advmod	_	_
+9	pr	_	_	10	case	_	_
+10	n	_	pos|p3|sg	6	obl	_	_
+11	sent	_	_	6	punct	_	_
+
+
+1	sent	_	_	4	punct	_	_
+2	prn	_	dem	4	expl	_	_
+3	art	_	_	4	det	_	_
+4	n	_	pos|p2|sg	0	root	_	_
+5	prn	_	pers|p2|sg|subj1	6	nsubj	_	_
+6	vblex	_	tv	4	acl	_	_
+7	sent	_	_	4	punct	_	_
+8	sent	_	_	4	punct	_	_
+
+
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|sg|card	1	nsubj	_	_
+5	cm	_	_	6	punct	_	_
+6	vblex	_	iv	1	conj	_	_
+7	adv	_	_	6	advmod	_	_
+8	adv	_	_	6	advmod	_	_
+9	sent	_	_	6	punct	_	_
+							
+							
+1	vaux	_	_	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	rel	_	_	4	mark	_	_
+4	num	_	_	1	csubj	_	_
+5	prn	_	pers|p3|sg|subj	7	nsubj	_	_
+6-7	_	_	_	_	_	_	_
+6	n	_	_	7	compound	_	_
+7	vblex	_	iv	4	acl	_	_
+8	asp	_	_	7	aux	_	_
+9	vblex	_	iv	7	ccomp	_	_
+10	adv	_	_	9	advmod	_	_
+11	prn	_	dem	9	advmod	_	_
+12	sent	_	_	1	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	rel	_	_	5	case	_	_
+5	n	_	_	2	obl	_	_
+6	adj	_	_	5	amod	_	_
+7	art	_	_	8	det	_	_
+8	np	_	al	2	nsubj	_	_
+9	sent	_	_	11	punct	_	_
+10	asp	_	_	11	aux	_	_
+11	adj	_	_	2	conj	_	_
+12	art	_	_	13	det	_	_
+13	n	_	pos	11	nsubj	_	_
+14	n	_	pos|p3|sg	13	nmod	_	_
+15	cm	_	_	17	punct	_	_
+16	asp	_	_	17	aux	_	_
+17	adj	_	_	11	conj	_	_
+18	rel	_	_	19	mark	_	_
+19	vblex	_	tvprn	17	advcl	_	_
+20	prn	_	pers|p3|sg|obj	19	obj	_	_
+21	sent	_	_	17	punct	_	_
+							
+							
+1	cnjadv	_	_	2	advmod	_	_
+2	vblex	_	tv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	vblex	_	iv	6	advmod	_	_
+5	asp	_	_	6	aux	_	_
+6	vblex	_	iv	2	ccomp	_	_
+7	adv	_	_	6	advmod	_	_
+8	cm	_	_	10	punct	_	_
+9	asp	_	_	10	aux	_	_
+10	vblex	_	iv	2	conj	_	_
+11	adv	_	_	10	advmod	_	_
+12	adv	_	_	10	advmod	_	_
+13	adv	_	_	10	advmod	_	_
+14	art	_	_	16	det	_	_
+15	prn	_	pers|p3|du|cl1_pos	16	nmod	_	_
+16	n	_	_	10	nsubj	_	_
+17	sent	_	_	10	punct	_	_
+							
+							
+1	asp	_	_	3	aux	_	_
+2	adv	_	_	3	advmod	_	_
+3	vblex	_	iv	0	root	_	_
+4	adv	_	_	3	advmod	_	_
+5	adv	_	_	3	advmod	_	_
+6	cm	_	_	7	punct	_	_
+7	vblex	_	iv	3	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9	sent	_	_	7	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	pass	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	rel	_	_	5	mark	_	_
+5	num	_	_	2	nsubj	_	_
+6	adv	_	_	9	advmod	_	_
+7	rel	_	_	9	mark	_	_
+8-9	_	_	_	_	_	_	_
+8	pr	_	_	9	compound	_	_
+9	vblex	_	iv	2	xcomp	_	_
+10	vblex	_	tvprn	9	xcomp	_	_
+11	prn	_	pers|p3|du|obj	10	obj	_	_
+12	sent	_	_	2	punct	_	_
+							
+							
+1	rel	_	_	4	mark	_	_
+2	asp	_	_	4	aux	_	_
+3	cnjadv	_	_	4	advmod	_	_
+4	adv	_	_	0	root	_	_
+5	rel	_	_	6	mark	_	_
+6-7	_	_	_	_	_	_	_
+6	n	_	_	4	acl	_	_
+7	vblex	_	iv	6	compound	_	_
+8	rel	_	_	14	mark	_	_
+9	ord	_	_	12	amod	_	_
+10	adv	_	_	9	advmod	_	_
+11	rel	_	_	12	case	_	_
+12	n	_	_	14	obl	_	_
+13	asp	_	_	14	aux	_	_
+14	vblex	_	iv	6	acl	_	_
+15	adv	_	_	14	advmod	_	_
+16	vblex	_	iv	14	advmod	_	_
+17	cm	_	_	19	punct	_	_
+18	art	_	_	19	det	_	_
+19	n	_	pos|p3|sg	14	nsubj	_	_
+20	sent	_	_	4	punct	_	_
+							
+							
+1	prn	_	pers|p3|sg|subj	2	nsubj	_	_
+2	vblex	_	itg	0	root	_	_
+3	cm	_	_	6	punct	_	_
+4	art	_	_	5	det	_	_
+5	prn	_	pers|p3|du|card2	6	nsubj	_	_
+6	vblex	_	coll	2	conj	_	_
+7	sent	_	_	6	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	adv	_	_	2	advmod	_	_
+5	adv	_	_	2	advmod	_	_
+6-7	_	_	_	_	_	_	_
+6	prn	_	pers|p3|sg|obj	2	obl	_	_
+7	pr	_	_	6	compound	_	_
+8	rel	_	_	10	mark	_	_
+9	asp	_	_	10	aux	_	_
+10	vblex	_	iv	2	ccomp	_	_
+11	art	_	_	12	det	_	_
+12	n	_	pos|p3|sg	10	nsubj	_	_
+13	sent	_	_	2	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	pr	_	_	4	case	_	_
+4	vblex	_	tvprn	1	conj	_	_
+5	cnjadv	_	_	4	advmod	_	_
+6	vblex	_	tv	4	conj	_	_
+7	art	_	_	8	det	_	_
+8	prn	_	pers|p3|sg|obj	6	nsubj	_	_
+9	rel	_	_	10	mark	_	_
+10	vblex	_	tvprn	6	ccomp	_	_
+11	prn	_	pers|p3|sg|obj	10	expl	_	_
+12	art	_	_	13	det	_	_
+13	n	_	pos|p3|sg	10	obj	_	_
+14	asp	_	_	15	aux	_	_
+15	adj	_	_	10	conj	_	_
+16	art	_	_	17	det	_	_
+17	n	_	pos|p3|sg	15	nsubj	_	_
+18	cm	_	_	20	punct	_	_
+19	cnjadv	_	_	20	advmod	_	_
+20	vblex	_	iv	15	conj	_	_
+21	adv	_	_	20	advmod	_	_
+22	art	_	_	23	det	_	_
+23	n	_	pos|p3|sg	20	nsubj	_	_
+24	rel	_	_	25	mark	_	_
+25	vblex	_	tv	20	advcl	_	_
+26	asp	_	_	25	aux	_	_
+27	vblex	_	iv	25	ccomp	_	_
+28	adv	_	_	27	advmod	_	_
+29	adv	_	_	27	advmod	_	_
+30	adv	_	_	27	advmod	_	_
+31	art	_	_	32	det	_	_
+32	n	_	_	27	nsubj	_	_
+33	det	_	dem	32	det	_	_
+34	cm	_	_	36	punct	_	_
+35	asp	_	_	36	aux	_	_
+36	vblex	_	iv	27	conj	_	_
+37	asp	_	_	38	aux	_	_
+38	vblex	_	iv	36	conj	_	_
+39	adv	_	_	38	advmod	_	_
+40	art	_	_	41	det	_	_
+41	n	_	pos|p3|sg	38	nsubj	_	_
+42	sent	_	_	25	punct	_	_
+							
+							
+1	vblex	_	iv	6	advcl	_	_
+2	adv	_	_	1	advmod	_	_
+3	prn	_	dem	1	nsubj	_	_
+4	cm	_	_	6	punct	_	_
+5	asp	_	_	6	aux	_	_
+6	vblex	_	pass	0	root	_	_
+7	adv	_	_	6	advmod	_	_
+8	adv	_	_	6	advmod	_	_
+9	adv	_	_	6	advmod	_	_
+10	art	_	_	11	det	_	_
+11	n	_	_	6	nsubj	_	_
+12	rel	_	_	13	case	_	_
+13	n	_	_	11	nmod	_	_
+14	cm	_	_	15	punct	_	_
+15	vblex	_	iv	6	conj	_	_
+16	adv	_	_	15	advmod	_	_
+17	pr	_	_	18	case	_	_
+18	np	_	top	15	obl	_	_
+19	rel	_	_	21	case	_	_
+20	asp	_	_	21	aux	_	_
+21	vblex	_	iv	15	csubj	_	_
+22	art	_	_	23	det	_	_
+23	np	_	al	21	nsubj	_	_
+24	sent	_	_	15	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	iv	0	root	_	_
+3	art	_	_	4	det	_	_
+4	prn	_	pers|p3|pl|card1	2	nsubj	_	_
+5	art	_	_	_	x	_	_
+6-7	_	_	_	_	_	_	_
+6	pr	_	_	7	compound	_	_
+7	vblex	_	iv	2	advcl	_	_
+8-9	_	_	_	_	_	_	_
+8	n	_	_	7	obl	_	_
+9	vblex	_	iv	8	compound	_	_
+10	sent	_	_	13	punct	_	_
+11	art	_	_	12	det	_	_
+12	prn	_	pers|p3|sg|card	13	nsubj	_	_
+13	vaux	_	_	2	conj	_	_
+14	rel	_	_	15	mark	_	_
+15	vblex	_	iv	13	xcomp	_	_
+16	sent	_	_	13	punct	_	_
+							
+							
+1	art	_	_	2	det	_	_
+2	ord	_	_	7	advmod	_	_
+3	rel	_	_	5	mark	_	_
+4	prn	_	pers|p3|sg|cl1_pos	5	nsubj	_	_
+5	vblex	_	iv	2	acl	_	_
+6	prn	_	pers|p3|sg|subj	7	nsubj	_	_
+7	vblex	_	iv	0	root	_	_
+8	pr	_	_	9	case	_	_
+9	np	_	top	7	obl	_	_
+10	cm	_	_	11	punct	_	_
+11	vblex	_	iv	7	conj	_	_
+12	pr	_	_	13	case	_	_
+13	np	_	top	11	obl	_	_
+14	sent	_	_	11	punct	_	_
+							
+							
+1	n	_	_	15	advcl	_	_
+2	adv	_	_	1	advmod	_	_
+3	art	_	_	4	det	_	_
+4	n	_	_	1	nsubj	_	_
+5	rel	_	_	6	case	_	_
+6	n	_	_	1	nmod	_	_
+7	prn	_	pers|p3|sg|subj	8	nsubj	_	_
+8	vblex	_	iv	6	acl	_	_
+9-10	_	_	_	_	_	_	_
+9	prn	_	pers|p3|sg|obj	8	obl	_	_
+10	pr	_	_	9	compound	_	_
+11	prn	_	dem	8	advmod	_	_
+12	cm	_	_	15	punct	_	_
+13	asp	_	_	15	aux	_	_
+14	adv	_	_	15	advmod	_	_
+15	vblex	_	iv	0	root	_	_
+16	adv	_	_	15	advmod	_	_
+17	adv	_	_	15	advmod	_	_
+18	art	_	_	19	det	_	_
+19	prn	_	pers|p3|sg|card	15	nsubj	_	_
+20	sent	_	_	15	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	vblex	_	iv	1	conj	_	_
+3	vblex	_	iv	2	conj	_	_
+4	adv	_	_	3	advmod	_	_
+5	adv	_	_	3	advmod	_	_
+6	pr	_	_	7	case	_	_
+7	np	_	top	3	obl	_	_
+8	sent	_	_	3	punct	_	_
+							
+							
+1	pr	_	_	2	case	_	_
+2	np	_	top	4	obl	_	_
+3	asp	_	_	4	aux	_	_
+4	vblex	_	iv	0	root	_	_
+5	sent	_	_	4	punct	_	_
+							
+							
+1	vblex	_	iv	6	advcl	_	_
+2	adv	_	_	1	advmod	_	_
+3	prn	_	dem	1	advmod	_	_
+4	cm	_	_	6	punct	_	_
+5	asp	_	_	6	aux	_	_
+6	vblex	_	pass	0	root	_	_
+7	adv	_	_	6	advmod	_	_
+8	pr	_	_	9	case	_	_
+9	np	_	top	6	obl	_	_
+10	sent	_	_	6	punct	_	_
+							
+							
+1	rel	_	_	2	mark	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4-5	_	_	_	_	_	_	_
+4	prn	_	pers|p3|sg|obj	2	advmod	_	_
+5	pr	_	_	4	compound	_	_
+6	art	_	_	7	det	_	_
+7	vblex	_	iv	2	nsubj	_	_
+8	sent	_	_	2	punct	_	_
+
+
+
+1	sent	_	_	4	punct	_	_
+2	ij	_	_	4	discourse	_	_
+3	cm	_	_	2	punct	_	_
+4	vblex	_	iv	0	root	_	_
+5	prn	_	dem	4	advmod	_	_
+6	n	_	_	4	vocative	_	_
+7	sent	_	_	4	punct	_	_
+8	sent	_	_	4	punct	_	_
+
+
+1	cnjcoo	_	_	2	advmod	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	adv	_	_	2	advmod	_	_
+5	cm	_	_	6	punct	_	_
+6	vblex	_	iv	2	conj	_	_
+7	cm	_	_	6	punct	_	_
+8	vblex	_	iv	6	conj	_	_
+9	adv	_	_	8	advmod	_	_
+10	pr	_	_	11	case	_	_
+11	np	_	top	8	obl	_	_
+12	cm	_	_	14	punct	_	_
+13	adv	_	_	14	advmod	_	_
+14	vblex	_	tv	8	conj	_	_
+15	art	_	_	16	det	_	_
+16	n	_	_	14	obj	_	_
+17	sent	_	_	18	punct	_	_
+18	vblex	_	tv	14	conj	_	_
+19	sent	_	_	18	punct	_	_
+							
+							
+1	vblex	_	tv	0	root	_	_
+2	art	_	_	3	det	_	_
+3	n	_	_	1	obj	_	_
+4	cm	_	_	5	punct	_	_
+5	vblex	_	iv	1	conj	_	_
+6	pr	_	_	5	advmod	_	_
+7	art	_	_	8	det	_	_
+8	n	_	_	_	x	_	_
+9	rel	_	_	10	mark	_	_
+10	vblex	_	iv	8	acl	_	_
+11	sent	_	_	5	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	adv	_	_	1	advmod	_	_
+3	cm	_	_	4	punct	_	_
+4	vblex	_	tv	1	conj	_	_
+5	adv	_	_	4	advmod	_	_
+6	pr	_	_	7	case	_	_
+7	np	_	top	4	obl	_	_
+8	sent	_	_	4	punct	_	_
+							
+							
+1-2	_	_	_	_	_	_	_
+1	pr	_	_	2	compound	_	_
+2	vblex	_	iv	0	root	_	_
+3	vblex	_	tv	2	conj	_	_
+4	adv	_	_	3	advmod	_	_
+5	art	_	_	6	det	_	_
+6	prn	_	pers|p3|sg|obj	3	obj	_	_
+7	pr	_	_	10	case	_	_
+8	art	_	_	10	det	_	_
+9	prn	_	pers|p3|du|cl1_pos	10	nmod	_	_
+10	n	_	_	3	obl	_	_
+11	sent	_	_	2	punct	_	_
+							
+							
+1	asp	_	_	2	aux	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	adv	_	_	2	advmod	_	_
+5-6	_	_	_	_	_	_	_
+5	prn	_	pers|p3|sg|obj	6	compound	_	_
+6	pr	_	_	2	advmod	_	_
+7	art	_	_	8	det	_	_
+8	np	_	al	2	nsubj	_	_
+9	sent	_	_	2	punct	_	_
+
+
+1	sent	_	_	4	punct	_	_
+2	prn	_	dem	4	expl	_	_
+3	art	_	_	4	det	_	_
+4	n	_	pos|p2|sg	0	root	_	_
+5	prn	_	pers|p2|sg|subj1	6	nsubj	_	_
+6	vblex	_	tv	4	acl	_	_
+7	sent	_	_	4	punct	_	_
+8	sent	_	_	4	punct	_	_
+
+
+1	vblex	_	iv	5	advcl	_	_
+2	prn	_	dem	1	nsubj	_	_
+3	cm	_	_	5	punct	_	_
+4	asp	_	_	5	aux	_	_
+5	vblex	_	iv	0	root	_	_
+6	adv	_	_	5	advmod	_	_
+7	adv	_	_	5	advmod	_	_
+8	sent	_	_	5	punct	_	_
