@@ -1916,3 +1916,109 @@
 6	adv	_	_	5	advmod	_	_
 7	adv	_	_	5	advmod	_	_
 8	sent	_	_	5	punct	_	_
+
+
+1	adv	_	_	2	advmod	_	_
+2	vblex	_	iv	0	root	_	_
+3	adv	_	_	2	advmod	_	_
+4	adv	_	_	2	advmod	_	_
+5	art	_	_	6	det	_	_
+6	np	_	al	2	nsubj	_	_
+7	cm	_	_	9	punct	_	_
+8	asp	_	_	9	aux	_	_
+9	vblex	_	iv	2	conj	_	_
+10	asp	_	_	9	aux	_	_
+11	art	_	_	12	det	_	_
+12	n	_	pos|p3|sg	9	nsubj	_	_
+13	cm	_	_	17	punct	_	_
+14	asp	_	_	17	aux	_	_
+15	adv	_	_	17	advmod	_	_
+16	adv	_	_	17	advmod	_	_
+17	vblex	_	iv	9	conj	_	_
+18	adv	_	_	17	advmod	_	_
+19	adv	_	_	17	advmod	_	_
+20	sent	_	_	17	punct	_	_
+							
+							
+1	vblex	_	iv	0	root	_	_
+2	vblex	_	iv	1	conj	_	_
+3	adv	_	_	2	advmod	_	_
+4	prn	_	dem	2	advmod	_	_
+5	sent	_	_	7	punct	_	_
+6	asp	_	_	7	aux	_	_
+7	vblex	_	pass	1	conj	_	_
+8	adv	_	_	7	advmod	_	_
+9	rel	_	_	13	mark	_	_
+10	art	_	_	11	det	_	_
+11	np	_	al	13	nsubj	_	_
+12	asp	_	_	13	aux	_	_
+13	vblex	_	iv	7	csubj	_	_
+14	adv	_	_	13	advmod	_	_
+15	adv	_	_	13	advmod	_	_
+16	pr	_	_	19	case	_	_
+17	art	_	_	19	det	_	_
+18	prn	_	pers|p3|du|cl1_pos	19	nmod	_	_
+19	n	_	_	13	obl	_	_
+20	sent	_	_	7	punct	_	_
+							
+							
+1	asp	_	_	3	aux	_	_
+2	adv	_	_	3	advmod	_	_
+3	vblex	_	pass	0	root	_	_
+4	adv	_	_	3	advmod	_	_
+5	adv	_	_	3	advmod	_	_
+6	art	_	_	7	det	_	_
+7	n	_	_	3	nsubj	_	_
+8	rel	_	_	9	mark	_	_
+9	vblex	_	iv	7	acl	_	_
+10	cm	_	_	11	punct	_	_
+11	vblex	_	iv	3	conj	_	_
+12	adv	_	_	11	advmod	_	_
+13	pr	_	_	15	case	_	_
+14	adv	_	_	15	advmod	_	_
+15	prn	_	dem	11	obl	_	_
+16	sent	_	_	11	punct	_	_
+							
+							
+1	rel	_	_	5	discourse	_	_
+2	cm	_	_	1	punct	_	_
+3	asp	_	_	5	aux	_	_
+4	adv	_	_	5	advmod	_	_
+5	vblex	_	iv	0	root	_	_
+6	art	_	_	7	det	_	_
+7	n	_	_	5	nsubj	_	_
+8	pr	_	_	10	case	_	_
+9	art	_	_	10	det	_	_
+10	n	_	_	5	obl	_	_
+11	det	_	dem	10	det	_	_
+12	cm	_	_	17	punct	_	_
+13	art	_	_	14	det	_	_
+14	prn	_	pers|p3|sg|card	17	nsubj	_	_
+15	prn	_	pers|p3|sg|subj	17	expl	_	_
+16	adv	_	_	17	advmod	_	_
+17	vblex	_	iv	5	conj	_	_
+18	pr	_	_	20	case	_	_
+19	art	_	_	20	det	_	_
+20	n	_	_	17	obl	_	_
+21	pr	_	_	22	case	_	_
+22	np	_	top	20	nmod	_	_
+23	cm	_	_	24	punct	_	_
+24	np	_	top	22	nmod	_	_
+25	sent	_	_	17	punct	_	_
+							
+							
+1	asp	_	_	3	aux	_	_
+2	prn	_	pers|p3|sg|cl2_pos	3	nmod	_	_
+3	n	_	_	11	advcl	_	_
+4	rel	_	_	5	mark	_	_
+5	ord	_	_	3	acl	_	_
+6	rel	_	_	8	case	_	_
+7	prn	_	pers|p3|sg|cl1_pos	8	nsubj	_	_
+8	vblex	_	iv	5	csubj	_	_
+9	asp	_	_	11	aux	_	_
+10	adv	_	_	11	advmod	_	_
+11	vblex	_	tv	0	root	_	_
+12	adv	_	_	11	advmod	_	_
+13	rel	_	_	14	case	_	_
+14	n	_	_	11	obl	_	_
+15	sent	_	_	11	punct	_	_
